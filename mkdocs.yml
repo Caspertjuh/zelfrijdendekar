@@ -11,8 +11,8 @@ theme:
     text: Merriweather Sans
     code: Red Hat Mono
   palette:
-    primary: "030402"  # Donkergroen/zwart
-    accent: "57B779"   # Lichtgroen
+    primary: teal  #/* Standaardkleur, wordt overschreven door CSS */
+    accent: lime   #/* Standaardkleur, wordt overschreven door CSS */
   features:
     - navigation.instant
     - navigation.instant.prefetch
