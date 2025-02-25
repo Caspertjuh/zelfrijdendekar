@@ -5,7 +5,7 @@
 </div>
 
 ## Contactgegevens
-📧 **E-mail**: Tjitte.Timmerman@example.com  
+📧 **E-mail**: at.timmerman@student.alfa-college.nl  
 ---
 
 ## Motivatie  
