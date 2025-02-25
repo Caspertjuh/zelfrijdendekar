@@ -25,4 +25,4 @@ Ik doe mee aan dit project omdat ik geïnteresseerd ben in **werktuigbouwkunde**
 
 ---
 
-[🔙 Terug naar het teamoverzicht](index.md)
+[🔙 Terug naar het teamoverzicht](https://caspertjuh.github.io/zelfrijdendekar/)
