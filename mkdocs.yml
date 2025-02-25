@@ -1,15 +1,16 @@
-site_name: Zelfrijdend hok
+site_name: Zelfrijdend Hok
 site_url: https://www.jouwprojectwebsite.com
-site_description: Casper Tjitte Jeffrey & Jayden
+site_description: Projectdocumentatie voor het Zelfrijdend Hok door Casper, Tjitte, Jeffrey & Jayden
 site_author: Casper Oudman 2025
 
+# Thema-instellingen
 theme:
-  language: nl
   name: material
+  language: nl
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  palette: 
+  palette:
     primary: teal
     accent: lime
   features:
@@ -18,10 +19,43 @@ theme:
     - navigation.tabs
     - content.code.copy
     - content.code.select
+    - content.tooltips
+    - content.tabs
+    - header.autohide
 
+# Markdown-extensies
 markdown_extensions:
   - tables
   - attr_list
   - md_in_html
   - pymdownx.emoji
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+# Extra CSS en JavaScript
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+# Plugins
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: timeago
+  - minify:
+      minify_html: true
+
+# Navigatie
+nav:
+  - Home: index.md
+  - Documentatie: 
+    - Casper: docs\Casper
+    - Jayden: docs\Jayden
+    - Jeffrey: docs\Jeffrey
+    - Tjitte: docs\Tjitte

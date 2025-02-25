@@ -1,26 +1,48 @@
-# Team zelfrijdend hok
+# Team Zelfrijdend Hok
 
-### Teamleden
+## Teamleden
 
-| Naam      | Functie                         |
-| :---------- | :----------------------------------- |
-| `Casper Oudman`       | Werktuigbouw Beheer  |
-| `Jayden Strikkers`       | Mechatronica Besturing |
-| `Jeffrey Schnuck`    | Elektro Specialist |
-| `Tjitte Timmerman`    | Mechatronica Teamleider |
+| Naam               | Functie                         |
+| :----------------- | :------------------------------ |
+| **Casper Oudman**  | Werktuigbouw Beheer             |
+| **Jayden Strikkers** | Mechatronica Besturing         |
+| **Jeffrey Schnuck** | Elektro Specialist             |
+| **Tjitte Timmerman** | Mechatronica Teamleider        |
 
-### Vaste gegevens
+## Projectinformatie
 
-- Project wordt uitgevoerd aan de Admiraal de Ruyterlaan in groningen
-- Project moet uiterlijk 5 juli af zijn
+- **Locatie**: Admiraal de Ruyterlaan, Groningen
+- **Deadline**: Uiterlijk 5 juli
+
+## Tools en Technologieën
 
 <div class="grid cards" markdown>
 
-- __Microsoft Onedrive__ Voor de opslag van bestanden & tekeningen
-- __Whatsapp__ Voor communicatie en snel overleg
-- __Github__ Voor de website & opslag van documentatie
-- __Inventor__ Voor het tekenen van Werktuigbouw
-- __Eplan__ Maken van de E-Tekeningen
-- __Tiaportal__ Maken van de besturing
+- **Microsoft Onedrive**  
+  Voor de opslag van bestanden & tekeningen
+
+- **Whatsapp**  
+  Voor communicatie en snel overleg
+
+- **Github**  
+  Voor de website & opslag van documentatie
+
+- **Inventor**  
+  Voor het tekenen van Werktuigbouw
+
+- **Eplan**  
+  Maken van de E-Tekeningen
+
+- **Tiaportal**  
+  Maken van de besturing
 
 </div>
+
+## Projectupdates
+
+```{admonition} Laatste update
+:class: tip
+
+**Datum**: 25 Februari 2025  
+**Status**: Ontwerpfase  
+**Opmerkingen**: Bezig met het maken van het ontwerp, aanvullen van de website
