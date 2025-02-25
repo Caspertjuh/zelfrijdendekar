@@ -3,6 +3,16 @@ site_url: https://www.jouwprojectwebsite.com
 site_description: Casper Tjitte Jeffrey & Jayden
 site_author: Casper Oudman 2025
 
-# Thema (optie: kies een standaard thema of pas aan)
 theme:
+  language: nl
   name: material
+  font:
+    text: Merriweather Sans
+    code: Red Hat Mono
+  palette: 
+    primary: teal
+    accent: lime
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tabs
