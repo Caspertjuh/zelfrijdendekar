@@ -39,7 +39,7 @@
     - Open-source software en compatibel met ROS (Robot Operating System).  
     - Geschikt voor autonome navigatie en AI-toepassingen.  
 
-!!! danger "Zwakke punten"
+!!! warning "Zwakke punten"
     - Hoge kosten, vooral voor educatieve of hobbyprojecten.  
     - Vereist veel programmeerkennis om te configureren en aan te passen.  
     - Geen zware bepantsering of wapensystemen.  
@@ -70,7 +70,7 @@
     - Kan zware lasten dragen en zelfstandig routes volgen.  
     - Wordt al getest in echte militaire missies.  
 
-!!! danger "Zwakke punten"
+!!! warning "Zwakke punten"
     - Erg duur en complex om zelf te bouwen.  
     - Vereist geavanceerde technologieën zoals LIDAR en GPS, wat veel programmeerkennis vraagt.  
     - Niet commercieel beschikbaar voor consumenten of educatieve doeleinden.  
