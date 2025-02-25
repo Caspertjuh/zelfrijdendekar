@@ -22,6 +22,7 @@ theme:
     - content.tooltips
     - content.tabs
     - header.autohide
+    - navigation.footer
 
 # Markdown-extensies
 markdown_extensions:
@@ -40,8 +41,4 @@ markdown_extensions:
 extra_css:
   - styles.css
 
-copyright:
-    copy; 2025 | Gemaakt door het team met 💡, 🚀 en een beetje koffie.  
-    <br>  
-    <span style="font-size: 12px;">🔍 Geheim tip: Klik op de punt aan het einde van deze regel...</span>  
-    <span style="display: none;">🎉 Je hebt de verborgen boodschap gevonden! 🚀</span>
+copyright: Copyright &copy; 2025 - Casper & Koffie
