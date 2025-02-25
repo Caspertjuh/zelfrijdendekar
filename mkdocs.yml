@@ -9,10 +9,9 @@ theme:
   language: nl
   font:
     text: Merriweather Sans
-    code: Red Hat Mono
+    code: Noto Sans
   palette:
-    primary: teal
-    accent: lime
+    Scheme: Kar
   features:
     - navigation.instant
     - navigation.instant.prefetch

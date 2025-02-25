@@ -1,7 +1,5 @@
-/* Ensure the image is styled correctly */
-.profile-img {
-    width: 200px; /* Verwijder !important tijdelijk */
-    height: auto;
-    display: block;
-    margin: 0 auto;
-}
+[data-md-color-scheme="Kar"] {
+    --md-primary-fg-color:        #030402;
+    --md-primary-fg-color--light: #376029;
+    --md-primary-fg-color--dark:  #57B779;
+  }
