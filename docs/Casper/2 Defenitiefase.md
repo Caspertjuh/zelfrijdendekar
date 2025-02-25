@@ -1,88 +1,134 @@
 # Definitiefase
 
-### Doelgroepomschrijving
+!!! info "Wat houdt de Definitiefase in?"
+    In de **definitiefase** wordt het project verder uitgewerkt op basis van de gestelde eisen.  
+    Hier worden de doelgroep, vergelijkbare producten en het plan van aanpak geanalyseerd en vastgelegd.
 
-#### Inspecties
+## Doelgroepomschrijving
 
-> **Leeftijd & Functie:** Technisch personeel of inspecteurs (30–55 jaar) die routinematig inspecties uitvoeren in grote of gevaarlijke gebieden.  
-> **Belangrijk:** Mobiliteit in uitdagende omgevingen, duurzaamheid, en sensoren voor gegevensverzameling (bijv. camera’s).  
-> **Onbelangrijk:** Luxe design of functies zonder direct praktisch nut.  
-> **Aankoopgedrag:** Interesse in producten die gevaar verminderen en efficiëntie verhogen bij inspecties van infrastructuur, fabrieken of installaties.
+### Inspecties
 
-#### Defensie
+??? info "Kenmerken van de doelgroep"
+    - **Leeftijd & Functie:** Technisch personeel of inspecteurs (30–55 jaar) die routinematig inspecties uitvoeren in grote of gevaarlijke gebieden.  
+    - **Belangrijk:** Mobiliteit in uitdagende omgevingen, duurzaamheid en sensoren voor gegevensverzameling (bijv. camera’s).  
+    - **Onbelangrijk:** Luxe design of functies zonder direct praktisch nut.  
+    - **Aankoopgedrag:** Interesse in producten die gevaar verminderen en efficiëntie verhogen bij inspecties van infrastructuur, fabrieken of installaties.
 
-> **Leeftijd & Functie:** Militaire logistiek of operationeel personeel (25–50 jaar).  
-> **Belangrijk:** Robuustheid, aanpasbaarheid voor verschillende terreinen en toepassingen, en lange gebruiksduur.  
-> **Onbelangrijk:** Onnodige functionaliteiten die gewicht of complexiteit verhogen.  
-> **Aankoopgedrag:** Aanschaf van producten die bijdragen aan missie-efficiëntie en veiligheid.
+### Defensie
 
-#### Magazijnen
+??? info "Kenmerken van de doelgroep"
+    - **Leeftijd & Functie:** Militaire logistiek of operationeel personeel (25–50 jaar).  
+    - **Belangrijk:** Robuustheid, aanpasbaarheid voor verschillende terreinen en toepassingen, en lange gebruiksduur.  
+    - **Onbelangrijk:** Onnodige functionaliteiten die gewicht of complexiteit verhogen.  
+    - **Aankoopgedrag:** Aanschaf van producten die bijdragen aan missie-efficiëntie en veiligheid.
 
-> **Leeftijd & Functie:** Magazijnpersoneel en logistiek managers (20–60 jaar).  
-> **Belangrijk:** Veiligheid, kostenbesparing, en integratie in bestaande processen.  
-> **Onbelangrijk:** Niet-praktische functies of hoge onderhoudsvereisten.  
-> **Aankoopgedrag:** Bedrijven kopen producten die arbeidskosten verlagen en de productiviteit verbeteren.
+### Magazijnen
 
-### Vergelijkbaar product onderzoek
+??? info "Kenmerken van de doelgroep"
+    - **Leeftijd & Functie:** Magazijnpersoneel en logistiek managers (20–60 jaar).  
+    - **Belangrijk:** Veiligheid, kostenbesparing en integratie in bestaande processen.  
+    - **Onbelangrijk:** Niet-praktische functies of hoge onderhoudsvereisten.  
+    - **Aankoopgedrag:** Bedrijven kopen producten die arbeidskosten verlagen en de productiviteit verbeteren.
 
-1. **Mbot Ranger**
-   - **Goed:**
-     - Arduino aanstuurbaar
-     - Lichtgewicht en simpele constructie
-     - Mogelijkheid om in codetaal te programmeren
-   - **Minder goed:**
-     - Zwakke constructie waardoor weinig gewicht
-     - Geen LIDAR sensoren
-     - Alleen zicht vooruit
+---
 
-2. **Fabrieks AGV**
-   - **Goed:**
-     - Sterke constructie
-     - Aanstuurbaar via PC
-     - Zware belasting is mogelijk door elektromotoren
-     - Lidar sensoren & magneet strips volgen
-   - **Slecht:**
-     - Geen mogelijkheid om op ruw terrein te rijden
-     - Geen mogelijkheid voor onvoorziene obstakels
-     - Duur ontwerp
+# Vergelijkbaar product onderzoek
 
-3. **Tesla Selfdriving**
-   - **Goed:**
-     - AI Vision technologie
-     - Systeem wat aanpast op de omgeving
-     - Veel camera’s en objectherkenning
-   - **Slecht:**
-     - Duur
-     - Heel complex
-     - Vereist dure hardware & componenten
+Hier worden drie vergelijkbare producten geanalyseerd op basis van hun voor- en nadelen.
 
-### Plan van Aanpak
+### 1. Mbot Ranger
 
-- **De begindatum van het project:**
-  - 11-2-2025
-- **Wanneer moet het ontwerp/product aan de klant voorgelegd worden?**
-  - 5-7-2025
-- **De datum waarop je het project op wilt leveren:**
-  - 27-6-2025
-- **Zijn er verder nog deadlines waarmee je rekening moet houden? Zo ja, dan schrijf je deze in het plan van aanpak:**
-  - 22-4-2025
-- **Wie werken er aan het project?**
-  - Jayden Strikkers, Tjitte Timmerman, Casper Oudman en Jeffrey Schnuck
-- **Wie heeft welke functie? Is dit vast of wisselt dat per week?**
-  - Jayden en Tjitte verzorgen de besturing, Casper verzorgt het mechanische gedeelte en Jeffrey verzorgt het elektrische gedeelte.
-- **Hoe ga je documenten bewaren en waar? Maak hiervoor gebruik van de mogelijkheden die school jullie biedt met de Office-365 omgeving (TEAMS, One-Drive):**
-  - Wij bewaren de documenten via OneDrive.
-- **Wat zijn de uit te voeren activiteiten?**
-  - De uit te voeren activiteiten bestaan uit de documentatie van het project, het maken van de mechanische en elektrische tekeningen. Verder moet er geprogrammeerd worden en moet het geheel geassembleerd worden.
-- **Wanneer bestel je de onderdelen?**
-  - In de week van 14 tot 18 april.
-- **Waar zitten de risico’s in het project en hoe ga je daar mee om?**
-  - Ons grootste risico is ons enthousiasme en een te grote tunnelvisie op wat we misschien zouden willen zonder echt te weten of het allemaal wel mogelijk is. We proberen ermee om te gaan door realistisch te blijven denken in wat mogelijk is.
-- **Wanneer en hoe overleg je met elkaar?**
-  - Wij overleggen standaard op de dinsdag met elkaar over hoe het project er nu bijstaat. Verder hebben wij een groepsapp waar we ook nog informatie in delen en elkaar op de hoogte houden van hoe ver we zijn met het project.
-- **Welke afspraken hebben jullie met elkaar gemaakt? En hoe worden deze vastgelegd?**
-  - De afspraken die we hebben gemaakt zijn goed en duidelijk communiceren, elkaar helpen waar nodig is en alles op tijd inleveren. De afspraken zijn vastgelegd via de planning en verder hebben we het mondeling erover gehad en akkoord gegeven.
-- **Wat gaan jullie uiteindelijk opleveren?**
-  - Voor de ideeën die we nu hebben, gaan we waarschijnlijk een tank opleveren.
-- **Aan welk programma van eisen gaat het projectresultaat uiteindelijk voldoen? Zijn er nieuwe bijgekomen? Welke wensen zouden jullie nog wel in het projectresultaat mee kunnen nemen en welke niet?**
-  - Aan het pakket van eisen dat we in de vorige fase hebben vastgesteld. Er zijn tot nu toe nog geen verdere eisen bijgekomen. Omdat wat wij voor ogen hebben nog niet eerder gemaakt is, zou onze grootste wens al zijn dat het goed werkt.
+??? success "Sterke punten"
+    - Arduino aanstuurbaar  
+    - Lichtgewicht en simpele constructie  
+    - Mogelijkheid om in codetaal te programmeren  
+
+??? failure "Zwakke punten"
+    - Zwakke constructie, weinig draagvermogen  
+    - Geen LIDAR-sensoren  
+    - Alleen zicht vooruit  
+
+### 2. Fabrieks AGV
+
+??? success "Sterke punten"
+    - Sterke constructie  
+    - Aanstuurbaar via PC  
+    - Zware belasting mogelijk door elektromotoren  
+    - LIDAR-sensoren en magneetstrip-volgsysteem  
+
+??? failure "Zwakke punten"
+    - Geen mogelijkheid om op ruw terrein te rijden  
+    - Geen detectie voor onvoorziene obstakels  
+    - Duur ontwerp  
+
+### 3. Tesla Selfdriving
+
+??? success "Sterke punten"
+    - AI Vision technologie  
+    - Past zich automatisch aan de omgeving aan  
+    - Uitgebreid camerasysteem met objectherkenning  
+
+??? failure "Zwakke punten"
+    - Zeer hoge kosten  
+    - Complex systeem  
+    - Vereist dure hardware en componenten  
+
+---
+
+# Plan van Aanpak
+
+Hier worden de belangrijkste mijlpalen, teamverdeling en projectplanning vastgesteld.
+
+### Belangrijke Data
+- **Begindatum project:** 11 februari 2025  
+- **Voorleggen ontwerp aan klant:** 5 juli 2025  
+- **Opleverdatum:** 27 juni 2025  
+- **Belangrijke deadline:** 22 april 2025  
+
+### Team en Verantwoordelijkheden
+| Naam                  | Verantwoordelijkheid        |
+|-----------------------|---------------------------|
+| **Jayden Strikkers**  | Besturing                 |
+| **Tjitte Timmerman**  | Besturing                 |
+| **Casper Oudman**     | Mechanische constructie   |
+| **Jeffrey Schnuck**   | Elektrische systemen      |
+
+### Documentatie en Opslag
+??? info "Hoe worden documenten bewaard?"
+    Alle projectdocumenten worden opgeslagen in **OneDrive** binnen de schoolomgeving.
+
+### Uit te voeren activiteiten
+- Documentatie van het project  
+- Ontwerpen van mechanische en elektrische tekeningen  
+- Programmeren van de besturing  
+- Assemblage van het gehele voertuig  
+
+### Inkoopplanning
+??? info "Wanneer worden onderdelen besteld?"
+    De onderdelen worden besteld in de week van **14 tot 18 april**.
+
+### Risicobeheer
+??? warning "Mogelijke risico’s en aanpak"
+    - **Te grote tunnelvisie op gewenste functionaliteiten** → We blijven realistisch en prioriteren haalbaarheid.  
+    - **Tijdsdruk door afwezigheid of onvoorziene omstandigheden** → We plannen flexibel en evalueren regelmatig de voortgang.  
+
+### Communicatie en Overleg
+??? info "Hoe en wanneer wordt er overlegd?"
+    - **Wekelijkse meeting op dinsdag** om de voortgang te bespreken.  
+    - **Groepsapp** voor snelle updates en onderlinge communicatie.  
+
+### Afspraken en Verwachtingen
+- **Duidelijke communicatie en samenwerking.**  
+- **Elkaar helpen waar nodig.**  
+- **Deadlines respecteren en op tijd opleveren.**  
+- **Afspraken worden vastgelegd in de planning en mondeling besproken.**  
+
+### Eindresultaat
+??? info "Wat wordt opgeleverd?"
+    - Op basis van de huidige plannen wordt er een **tank-achtig voertuig** ontwikkeld.  
+
+### Eisen en Wensen
+??? note "Welke eisen gelden er en zijn er nieuwe bijgekomen?"
+    - Het projectresultaat voldoet aan het eerder vastgestelde **pakket van eisen**.  
+    - Op dit moment zijn er **geen nieuwe eisen** bijgekomen.  
+    - De grootste wens is dat het systeem **betrouwbaar en functioneel** werkt.  

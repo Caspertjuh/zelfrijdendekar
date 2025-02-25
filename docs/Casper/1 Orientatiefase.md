@@ -48,7 +48,7 @@ Wij hebben een aantal vragen gesteld om het project beter te begrijpen:
 
 ---
 
-# SWOT-analyse
+## SWOT-analyse
 
 ??? tip "Sterktes"
     - Goede samenwerking en communicatie.  
@@ -67,7 +67,7 @@ Wij hebben een aantal vragen gesteld om het project beter te begrijpen:
 
 ---
 
-# Pakket van Eisen
+## Pakket van Eisen
 
 Het project kent verschillende eisen, onderverdeeld in **algemene eisen**, **werktuigbouw** en **automatisering**.
 
