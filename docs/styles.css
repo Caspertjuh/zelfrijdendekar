@@ -1,0 +1,7 @@
+/* Ensure the image is styled correctly */
+.profile-img {
+    width: 200px; /* Verwijder !important tijdelijk */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
