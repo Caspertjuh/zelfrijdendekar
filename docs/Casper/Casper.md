@@ -1,28 +1,24 @@
 # Casper Oudman
 
 <div align="center">
-  <img src="images/casper.jpg" alt="Casper Oudman" width="250px">
+  <img src="assets\Casper.jpg" alt="Casper Oudman" width="250px">
 </div>
 
 ## Contactgegevens
-📧 **E-mail**: casper.oudman@example.com  
-📞 **Telefoon**: +31 6 12345678  
-
+📧 **E-mail**: c.oudman@student.alfa-college.nl 
 ---
 
 ## Motivatie  
-Ik doe mee aan dit project omdat ik geïnteresseerd ben in **werktuigbouwkunde** en graag werk aan innovatieve oplossingen. Dit project biedt mij de kans om praktijkervaring op te doen en samen te werken in een team om een autonoom voertuig te ontwikkelen.
+Ik ben onderdeel van dit project team omdat ik het fijn vindt om samen met een gestructureed team te werken aan een kar waar wij allemaal de motivatie voor hebben, daarnaast ben ik erg geintereseerd in CAD & Programmeren
 
 ## Waar ik zin in heb  
-✅ Het ontwerpen en bouwen van het frame  
-✅ Leren werken met nieuwe software en technieken  
+✅ Het ontwerpen en bouwen van de kar 
+✅ Realiseren van mijn Modellen 
 ✅ Samenwerken met mijn team  
 
 ## Waar ik minder zin in heb  
-❌ Documentatie schrijven  
+❌ Lassen
 ❌ Mogelijke technische problemen die veel tijd kosten  
 ❌ Werken onder tijdsdruk  
 
 ---
-
-[🔙 Terug naar het teamoverzicht](https://caspertjuh.github.io/zelfrijdendekar/)

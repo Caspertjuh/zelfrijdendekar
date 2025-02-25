@@ -1,13 +1,11 @@
 # Jayden Strikkers
 
 <div align="center">
-  <img src="images/Jayden.jpg" alt="Jayden Strikkers" width="250px">
+  <img src="Assets\Jayden.jpg" alt="Jayden Strikkers" width="250px">
 </div>
 
 ## Contactgegevens
 📧 **E-mail**: Jayden.Strikkers@example.com  
-📞 **Telefoon**: +31 6 12345678  
-
 ---
 
 ## Motivatie  
@@ -24,5 +22,3 @@ Ik doe mee aan dit project omdat ik geïnteresseerd ben in **werktuigbouwkunde**
 ❌ Werken onder tijdsdruk  
 
 ---
-
-[🔙 Terug naar het teamoverzicht](https://caspertjuh.github.io/zelfrijdendekar/)

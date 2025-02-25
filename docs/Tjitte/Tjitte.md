@@ -1,13 +1,11 @@
 # Tjitte Timmerman
 
 <div align="center">
-  <img src="images/Tjitte.jpg" alt="Tjitte Timmerman" width="250px">
+  <img src="assets\Tjitte.jpg" alt="Tjitte Timmerman" width="250px">
 </div>
 
 ## Contactgegevens
 📧 **E-mail**: Tjitte.Timmerman@example.com  
-📞 **Telefoon**: +31 6 12345678  
-
 ---
 
 ## Motivatie  
@@ -24,5 +22,3 @@ Ik doe mee aan dit project omdat ik geïnteresseerd ben in **werktuigbouwkunde**
 ❌ Werken onder tijdsdruk  
 
 ---
-
-[🔙 Terug naar het teamoverzicht](https://caspertjuh.github.io/zelfrijdendekar/)

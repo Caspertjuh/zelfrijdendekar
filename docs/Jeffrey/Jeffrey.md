@@ -1,13 +1,11 @@
 # Jeffrey Schnuck
 
 <div align="center">
-  <img src="images/Jeffrey.jpg" alt="Jeffrey Schnuck" width="250px">
+  <img src="Assets\Jeffrey.jpg" alt="Jeffrey Schnuck" width="250px">
 </div>
 
 ## Contactgegevens
 📧 **E-mail**: Jeffrey.Schnuck@example.com  
-📞 **Telefoon**: +31 6 12345678  
-
 ---
 
 ## Motivatie  
@@ -24,5 +22,3 @@ Ik doe mee aan dit project omdat ik geïnteresseerd ben in **werktuigbouwkunde**
 ❌ Werken onder tijdsdruk  
 
 ---
-
-[🔙 Terug naar het teamoverzicht](https://caspertjuh.github.io/zelfrijdendekar/)
