@@ -40,9 +40,8 @@
 
 ## Projectupdates
 
-```{admonition} Laatste update
-:class: tip
 
-**Datum**: 25 Februari 2025  
-**Status**: Ontwerpfase  
-**Opmerkingen**: Bezig met het maken van het ontwerp, aanvullen van de website
+!!! Tip "Laatste Update"
+  - **Datum**: 25 Februari 2025  
+  - **Status**: Ontwerpfase  
+  - **Opmerkingen**: Bezig met het maken van het ontwerp, aanvullen van de website
