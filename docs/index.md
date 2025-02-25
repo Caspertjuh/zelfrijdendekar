@@ -16,8 +16,11 @@
 
 <div class="grid cards" markdown>
 
-- ![Microsoft OneDrive](C:\Users\oudma\Documents\Website School\zelfrijdendekar\assets\Icons\microsoft-brands-solid.svg) __Microsoft Onedrive__ Voor de opslag van bestanden & tekeningen
-- ![Whatsapp](C:\Users\oudma\Documents\Website School\zelfrijdendekar\assets\Icons\whatsapp-brands.svg) __Whatsapp__ Voor communicatie en snel overleg
-- ![Github](C:\Users\oudma\Documents\Website School\zelfrijdendekar\assets\Icons\github-brands.svg) __Github__ Voor de website & opslag van documentatie
+- __Microsoft Onedrive__ Voor de opslag van bestanden & tekeningen
+- __Whatsapp__ Voor communicatie en snel overleg
+- __Github__ Voor de website & opslag van documentatie
+- __Inventor__ Voor het tekenen van Werktuigbouw
+- __Eplan__ Maken van de E-Tekeningen
+- __Tiaportal__ Maken van de besturing
 
 </div>
