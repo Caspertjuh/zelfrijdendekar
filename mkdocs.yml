@@ -16,3 +16,5 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.tabs
+markdown_extensions:
+  - tables
