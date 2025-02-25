@@ -16,8 +16,8 @@
 
 <div class="grid cards" markdown>
 
-- ![Microsoft OneDrive](assets\Icons\microsoft-brands-solid.svg) __Microsoft Onedrive__ Voor de opslag van bestanden & tekeningen
-- ![Whatsapp](assets\Icons\whatsapp-brands.svg) __Whatsapp__ Voor communicatie en snel overleg
-- ![Github](assets\Icons\github-brands.svg) __Github__ Voor de website & opslag van documentatie
+- ![Microsoft OneDrive](assets/Icons/microsoft-brands-solid.svg) __Microsoft Onedrive__ Voor de opslag van bestanden & tekeningen
+- ![Whatsapp](assets/Icons/whatsapp-brands.svg) __Whatsapp__ Voor communicatie en snel overleg
+- ![Github](assets/Icons/github-brands.svg) __Github__ Voor de website & opslag van documentatie
 
 </div>
