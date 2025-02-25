@@ -1,24 +1,22 @@
-# Casper Oudman
+# Casper Oudman  
 
-<div align="center">
-  <img src="docs\Casper\Assets\Casper.jpg" alt="Casper Oudman" width="250px">
-</div>
+<div align="center">  
+  <img src="docs\Casper\Assets\Casper.jpg" alt="Casper Oudman" width="250px">  
+</div>  
 
-## Contactgegevens
-📧 **E-mail**: c.oudman@student.alfa-college.nl 
----
+## Contactgegevens  
+📧 **E-mail**: c.oudman@student.alfa-college.nl  
+---  
 
 ## Motivatie  
-Ik ben onderdeel van dit project team omdat ik het fijn vindt om samen met een gestructureed team te werken aan een kar waar wij allemaal de motivatie voor hebben, daarnaast ben ik erg geintereseerd in CAD & Programmeren
+Ik ben onderdeel van dit projectteam omdat ik graag samenwerk binnen een gestructureerd team aan een project waar we allemaal gemotiveerd voor zijn. Daarnaast heb ik een sterke interesse in **CAD-ontwerp** en **programmeren**, en zie ik dit project als een kans om mijn vaardigheden hierin verder te ontwikkelen.  
 
-## Waar ik zin in heb  
-✅ Het ontwerpen en bouwen van de kar 
-✅ Realiseren van mijn Modellen 
-✅ Samenwerken met mijn team  
+!!! Success "Waar ik naar uit kijk"  
+  - Het ontwerpen en bouwen van de kar  
+  - Het realiseren van mijn CAD-modellen  
+  - Effectieve samenwerking binnen het team  
 
-## Waar ik minder zin in heb  
-❌ Lassen
-❌ Mogelijke technische problemen die veel tijd kosten  
-❌ Werken onder tijdsdruk  
-
----
+!!! Warning "Waar ik tegen op zie"  
+  - Lassen    
+  - Complexe technische problemen die veel tijd kunnen kosten  
+  - Werken onder hoge tijdsdruk  
