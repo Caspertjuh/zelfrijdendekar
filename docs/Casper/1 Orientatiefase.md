@@ -90,10 +90,10 @@ Het project kent verschillende eisen, onderverdeeld in **algemene eisen**, **wer
 - Het voertuig moet een deugdelijk remsysteem hebben.
 - De accu moet veilig en stevig bevestigd worden.
 
-??? note "De constructie moet voldoen aan de volgende voorwaarden:"
-    1. Duurzaam, licht en voldoende sterk zijn (met berekeningen).  
-    2. Voldoen aan de werk- en constructietekeningen.  
-    3. Laswerk moet van voldoende kwaliteit zijn.  
+## De constructie moet voldoen aan de volgende voorwaarden:
+- Duurzaam, licht en voldoende sterk zijn (met berekeningen).  
+- Voldoen aan de werk- en constructietekeningen.  
+- Laswerk moet van voldoende kwaliteit zijn.  
 
 ## Eisen voor de automatisering
 - De zelfrijdende kar moet veilig functioneren.
