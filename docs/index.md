@@ -1,9 +1,9 @@
 # Team zelfrijdend hok
 
 ### Teamleden
-| Naam | Opleidingsrichting | Functie |
-| :--: | :--------------------------: |
-| Casper Oudman | Werktuigbouw | Website & voortgang |
-| Jayden Strikkers | Mechatronica | Specialist-B |
-| Jeffrey Schnuck | Electronica | Specialist-E |
-| Tjitte Timmerman | Mechantronica | Teamleider |
+| Naam      | Functie                         |
+| :---------- | :----------------------------------- |
+| `Casper Oudman`       | Werktuigbouw Beheer  |
+| `Jayden Strikkers`       | Mechatronica Besturing |
+| `Jeffrey Schnuck`    | Elektro Specialist |
+| `Tjitte Timmerman`    | Mechatronica Teamleider |
