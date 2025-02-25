@@ -42,12 +42,3 @@ extra_css:
 
 extra_javascript:
   - javascripts/extra.js
-
-# Navigatie
-nav:
-  - Home: index.md
-  - Documentatie: 
-    - Casper: docs\Casper
-    - Jayden: docs\Jayden
-    - Jeffrey: docs\Jeffrey
-    - Tjitte: docs\Tjitte
