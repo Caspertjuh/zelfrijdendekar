@@ -35,7 +35,7 @@ Dit is een product van vervoersmaatschappij Qbuzz en maakt gebruik van autonome 
 - Gebruikt sensoren om zelfstandig gas te geven, te remmen en uit te wijken.  
 - Geeft een goed voorbeeld van hoe wij soortgelijke technieken kunnen toepassen.  
 
-!!! success "Sterke punten"
+!!! tip "Sterke punten"
     - Volledig autonoom, bestuurt zichzelf met sensoren.  
     - Geavanceerde technologie die veiligheid waarborgt.  
 
@@ -50,7 +50,7 @@ Dit is een autonome grasmaaier die gedeeltelijk zelfstandig werkt.
 - Gebruikt begrenzingsdraad om zijn werkgebied te bepalen.  
 - Sommige modellen gebruiken sensoren om gras te detecteren zonder draden.  
 
-!!! succes "Sterke punten"  
+!!! tip "Sterke punten"  
     - Kan zelfstandig obstakels vermijden en van richting veranderen.  
     - Automatische navigatie op basis van signalen en sensoren.  
 
@@ -65,7 +65,7 @@ Zorginstellingen maken ook gebruik van autonome systemen.
 - AI-systemen helpen bij het inplannen van afspraken en het analyseren van medische gegevens.  
 - Sensortechnologie wordt gebruikt om patiënten op afstand te monitoren.  
 
-!!! succes "Sterke punten" 
+!!! tip "Sterke punten" 
     - AI kan symptomen vroegtijdig detecteren en artsen ondersteunen.  
     - Automatische gegevensverwerking voorkomt menselijke fouten.  
 

@@ -29,7 +29,7 @@
 ## Vergelijkbaar product onderzoek
 
 ### 1. Mbot Ranger
-!!! succes "Sterke punten"  
+!!! tip "Sterke punten"  
     - Arduino aanstuurbaar  
     - Lichtgewicht en simpele constructie  
     - Mogelijkheid om in codetaal te programmeren  
@@ -40,7 +40,7 @@
     - Alleen zicht vooruit  
 
 ### 2. Fabrieks AGV
-!!! succes "Sterke punten"   
+!!! tip "Sterke punten"   
     - Sterke constructie  
     - Aanstuurbaar via PC  
     - Zware belasting mogelijk door elektromotoren  
@@ -52,7 +52,7 @@
     - Duur ontwerp  
 
 ### 3. Tesla Selfdriving
-!!! succes "Sterke punten"
+!!! tip "Sterke punten"
     - AI Vision technologie  
     - Past zich automatisch aan de omgeving aan  
     - Uitgebreid camerasysteem met objectherkenning  
