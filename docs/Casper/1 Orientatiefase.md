@@ -51,7 +51,7 @@ Wij denken dat onze zwaktes liggen bij dat we misschien nog niet genoeg kennis b
 __Kansen__
 We denken dat onze kansen liggen bij wat we bij eerdere projecten hebben geleerd en de ervaringen die we tijdens onze stages hebben opgedaan. Verder liggen onze kansen dat we het niet erg vinden om buiten onze schooltijden ook aan het project te werken zodat we eventueel al voor kunnen gaan lopen of juist tijd in kunnen halen.
 
-__GEvaren__
+__Gevaren__
 Wij zijn bang dat we voor het project in tijdnood komen te zitten door al geplande afwezigheid (waar we ook al wel omheen plannen) en door ziekte en andere onvoorziene omstandigheden. Verder zijn we nog bang dat de lestijden niet overeenkomen met de tijd van het project, daarmee bedoel ik dat we bang zijn voor dat het project voor gaat lopen op de daadwerkelijke lessen die we hebben.
 
 ### Pakket van Eisen
