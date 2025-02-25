@@ -2,26 +2,26 @@
 
 ### Doelgroepomschrijving
 
-**Inspecties:**
-- **Leeftijd & Functie:** Technisch personeel of inspecteurs (30–55 jaar) die routinematig inspecties uitvoeren in grote of gevaarlijke gebieden.
-- **Productvoorkeuren:**
-  - **Belangrijk:** Mobiliteit in uitdagende omgevingen, duurzaamheid, en sensoren voor gegevensverzameling (bijv. camera’s).
-  - **Onbelangrijk:** Luxe design of functies zonder direct praktisch nut.
-- **Aankoopgedrag:** Interesse in producten die gevaar verminderen en efficiëntie verhogen bij inspecties van infrastructuur, fabrieken of installaties.
+#### Inspecties
 
-**Defensie:**
-- **Leeftijd & Functie:** Militaire logistiek of operationeel personeel (25–50 jaar).
-- **Productvoorkeuren:**
-  - **Belangrijk:** Robuustheid, aanpasbaarheid voor verschillende terreinen en toepassingen, en lange gebruiksduur.
-  - **Onbelangrijk:** Onnodige functionaliteiten die gewicht of complexiteit verhogen.
-- **Aankoopgedrag:** Aanschaf van producten die bijdragen aan missie-efficiëntie en veiligheid.
+> **Leeftijd & Functie:** Technisch personeel of inspecteurs (30–55 jaar) die routinematig inspecties uitvoeren in grote of gevaarlijke gebieden.  
+> **Belangrijk:** Mobiliteit in uitdagende omgevingen, duurzaamheid, en sensoren voor gegevensverzameling (bijv. camera’s).  
+> **Onbelangrijk:** Luxe design of functies zonder direct praktisch nut.  
+> **Aankoopgedrag:** Interesse in producten die gevaar verminderen en efficiëntie verhogen bij inspecties van infrastructuur, fabrieken of installaties.
 
-**Magazijnen:**
-- **Leeftijd & Functie:** Magazijnpersoneel en logistiek managers (20–60 jaar).
-- **Productvoorkeuren:**
-  - **Belangrijk:** Veiligheid, kostenbesparing, en integratie in bestaande processen.
-  - **Onbelangrijk:** Niet-praktische functies of hoge onderhoudsvereisten.
-- **Aankoopgedrag:** Bedrijven kopen producten die arbeidskosten verlagen en de productiviteit verbeteren.
+#### Defensie
+
+> **Leeftijd & Functie:** Militaire logistiek of operationeel personeel (25–50 jaar).  
+> **Belangrijk:** Robuustheid, aanpasbaarheid voor verschillende terreinen en toepassingen, en lange gebruiksduur.  
+> **Onbelangrijk:** Onnodige functionaliteiten die gewicht of complexiteit verhogen.  
+> **Aankoopgedrag:** Aanschaf van producten die bijdragen aan missie-efficiëntie en veiligheid.
+
+#### Magazijnen
+
+> **Leeftijd & Functie:** Magazijnpersoneel en logistiek managers (20–60 jaar).  
+> **Belangrijk:** Veiligheid, kostenbesparing, en integratie in bestaande processen.  
+> **Onbelangrijk:** Niet-praktische functies of hoge onderhoudsvereisten.  
+> **Aankoopgedrag:** Bedrijven kopen producten die arbeidskosten verlagen en de productiviteit verbeteren.
 
 ### Vergelijkbaar product onderzoek
 
