@@ -9,9 +9,10 @@ theme:
   language: nl
   font:
     text: Merriweather Sans
-    code: Noto Sans
+    code: Red Hat Mono
   palette:
-    Scheme: Kar
+    primary: "030402"  # Donkergroen/zwart
+    accent: "57B779"   # Lichtgroen
   features:
     - navigation.instant
     - navigation.instant.prefetch
@@ -21,7 +22,6 @@ theme:
     - content.tooltips
     - content.tabs
     - header.autohide
-    - navigation.footer
 
 # Markdown-extensies
 markdown_extensions:
@@ -38,6 +38,6 @@ markdown_extensions:
 
 # Extra CSS en JavaScript
 extra_css:
-  - docs/styles.css
+  - styles.css
 
 copyright: Copyright &copy; 2025 - Casper & Koffie
