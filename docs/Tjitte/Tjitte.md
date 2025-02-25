@@ -1,7 +1,7 @@
 # Tjitte Timmerman
 
 <div align="center">
-  <img src="assets\Tjitte.jpg" alt="Tjitte Timmerman" width="250px">
+  <img src="docs\Tjitte\Assets\Tjitte.jpg" alt="Tjitte Timmerman" width="250px">
 </div>
 
 ## Contactgegevens

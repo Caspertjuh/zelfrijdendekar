@@ -1,7 +1,7 @@
 # Jeffrey Schnuck
 
 <div align="center">
-  <img src="Assets\Jeffrey.jpg" alt="Jeffrey Schnuck" width="250px">
+  <img src="docs\Jeffrey\Assets\Jeffrey.jpg" alt="Jeffrey Schnuck" width="250px">
 </div>
 
 ## Contactgegevens

@@ -1,7 +1,7 @@
 # Jayden Strikkers
 
 <div align="center">
-  <img src="Assets\Jayden.jpg" alt="Jayden Strikkers" width="250px">
+  <img src="docs\Jayden\Assets\Jayden.jpg" alt="Jayden Strikkers" width="250px">
 </div>
 
 ## Contactgegevens
