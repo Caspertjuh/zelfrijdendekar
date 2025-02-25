@@ -17,12 +17,13 @@ In deze fase wordt het project gestart en worden de doelen, vereisten en randvoo
 
 Interview met opdrachtgever
 Wij hebben een aantal vragen opgesteld zodat wij meer informatie kunnen vergaren over het project en zo meer duidelijkheid kunnen krijgen:
-```Ts title="Wat is de belangrijkste reden dat u dit project laat uitvoeren?"
+
+``` py title="Wat is de belangrijkste reden dat u dit project laat uitvoeren?"
 Omdat er bij de Volkswagen fabriek dit soort karretjes worden gebruikt, maar die karretjes volgen strepen dus houden geen rekening met de omgeving.
 ```
-o	Ook om proces te versnellen door Autonoom.
--	Waarom mogen wij geen Boikon profielen gebruiken?
-o	Boikon te prijzig – Teken technisch iets leren
+``` py title="Waarom mogen wij geen Boikon profielen gebruiken?
+Boikon te prijzig – Teken technisch iets leren
+```
 -	Moet het voertuig volledig autonoom rijden, of is een handmatige besturing ook nodig?
 o	Alleen Autonoom
 -	In welke omgeving zal het voertuig voornamelijk rijden (binnen/buiten)?
