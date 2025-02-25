@@ -2,12 +2,12 @@
 
 ## Teamleden
 
-| Naam                                      | Functie                         |
-|-------------------------------------------|--------------------------------|
-| [**Casper Oudman**](docs\Casper\Casper.md)            | Werktuigbouw Beheer             |
-| [**Jayden Strikkers**](docs\Jayden\Jayden.md)         | Mechatronica Besturing         |
-| [**Jeffrey Schnuck**](docs\Jeffrey\Jeffrey.md)         | Elektro Specialist             |
-| [**Tjitte Timmerman**](docs\Tjitte\Tjitte.md)         | Mechatronica Teamleider        |
+| Naam                    | Functie                         |
+|-------------------------|--------------------------------|
+| Casper Oudman           | Werktuigbouw Beheer            |
+| Jayden Strikkers        | Mechatronica Besturing         |
+| Jeffrey Schnuck         | Elektro Specialist             |
+| Tjitte Timmerman        | Mechatronica Teamleider        |
 
 ## Projectinformatie
 
