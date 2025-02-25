@@ -38,10 +38,7 @@ markdown_extensions:
 
 # Extra CSS en JavaScript
 extra_css:
-  - stylesheets/extra.css
-
-extra_javascript:
-  - javascripts/extra.js
+  - styles.css
 
 copyright:
     copy; 2025 | Gemaakt door het team met 💡, 🚀 en een beetje koffie.  
