@@ -18,10 +18,10 @@ theme:
     - navigation.tabs
     - content.code.copy
     - content.code.select
+
 markdown_extensions:
   - tables
   - attr_list
   - md_in_html
-  - attr_list
   - pymdownx.emoji
   - admonition
