@@ -1,0 +1,43 @@
+site_name: Zelfrijdend hok
+site_url: https://www.jouwprojectwebsite.com
+site_description: Casper Tjitte Jeffrey & Jayden
+site_author: Casper Oudman 2025
+
+# Thema (optie: kies een standaard thema of pas aan)
+theme:
+  name: material
+
+# Navigatie (menu-instellingen)
+nav:
+  - Home: index.md
+  - Over: about.md
+  - Installatie: installatie.md
+  - Gebruiksaanwijzing: gebruiksaanwijzing.md
+  - API: api.md
+  - Bijdragen: bijdragen.md
+
+# Extra pagina's (optioneel)
+extra:
+  social:
+    - type: github
+      link: https://github.com/Caspertjuh/zelfrijdendekar
+
+# Zoekfunctie inschakelen
+search:
+  enable: true
+
+# Externe markdown extensies voor syntax of verbeteringen
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - footnotes
+
+# Extra configuratie-instellingen (optioneel)
+extra_css:
+  - 'css/custom.css'  # Voeg een eigen CSS-bestand toe
+
+# Configuratie voor het genereren van de site
+plugins:
+  - search
