@@ -34,7 +34,7 @@
   - Gebruikt LIDAR, camera’s en GPS voor navigatie.  
   - Veel gebruikt voor onderzoek en militaire toepassingen.  
 
-!!! tip "Sterke punten"
+!!! success "Sterke punten"
     - Kan zware lasten dragen en is geschikt voor ruige terreinen.  
     - Open-source software en compatibel met ROS (Robot Operating System).  
     - Geschikt voor autonome navigatie en AI-toepassingen.  
@@ -50,7 +50,7 @@
   - Gebruikt AI en machine learning om obstakels te ontwijken.  
   - Open-source software, zelf aanpasbaar en programmeerbaar.  
 
-!!! tip "Sterke punten"
+!!! success "Sterke punten"
     - Betaalbaar en geschikt voor educatieve projecten.  
     - AI-functionaliteit zoals objectherkenning en navigatie.  
     - Makkelijk te programmeren met Python en ROS.  
@@ -65,7 +65,7 @@
   - Kan autonoom navigeren en vijandige gebieden verkennen.  
   - Wordt gebruikt voor transport van goederen en gewonden in oorlogsgebieden.  
 
-!!! tip "Sterke punten"
+!!! success "Sterke punten"
     - Sterk, robuust en geschikt voor moeilijke terreinen.  
     - Kan zware lasten dragen en zelfstandig routes volgen.  
     - Wordt al getest in echte militaire missies.  

@@ -35,7 +35,7 @@
 - Laadcapaciteit van **600 kg**.  
 - Geavanceerde sensoren voor veilige werking.  
 
-!!! tip "Sterke punten"
+!!! success "Sterke punten"
     - Veelzijdig en flexibel inzetbaar.  
     - Verbetert efficiëntie en interne doorstroming.  
     - Veilig en nauwkeurig in gebruik.  
@@ -53,7 +53,7 @@
 - Uitgerust met een sensorpakket van **12 camera’s, radar, TOF-camera’s, GPS en ultrasone sensoren**.  
 - Laadcapaciteit van **10 kg**, snelheid van **6 km/u**, batterijduur van **12 uur**.  
 
-!!! tip "Sterke punten"
+!!! success "Sterke punten"
     - Milieuvriendelijk en kostenefficiënt voor korte afstanden.  
     - Bewezen succesvol met miljoenen leveringen.  
     - Veilige, bijna volledig autonome navigatie.  
@@ -70,7 +70,7 @@
 - Ontworpen voor **luchthavens en bagageafhandeling**.  
 - Autonoom transportsysteem geïntegreerd in luchthavensystemen.  
 
-!!! tip "Sterke punten"
+!!! success "Sterke punten"
     - Versnelt bagageverplaatsing en vermindert wachttijden.  
     - Robuuste constructie met geavanceerde sensortechnologie.  
     - Kostenbesparend en duurzaam door geoptimaliseerde workflow.  
