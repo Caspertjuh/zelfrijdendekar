@@ -26,7 +26,7 @@
 
 ---
 
-# Vergelijkbaar Product Onderzoek
+## Vergelijkbaar Product Onderzoek
 
 ### Clearpath Robotics - Husky UGV (Unmanned Ground Vehicle)
 - **Opvallend:**  

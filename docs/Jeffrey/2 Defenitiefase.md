@@ -26,7 +26,7 @@
 
 ---
 
-# Vergelijkbaar Product Onderzoek
+## Vergelijkbaar Product Onderzoek
 
 ### Zelfrijdende Bus (Qbuzz)
 Dit is een product van vervoersmaatschappij Qbuzz en maakt gebruik van autonome technieken.  

@@ -26,7 +26,7 @@
 
 ---
 
-# Vergelijkbaar Product Onderzoek
+## Vergelijkbaar Product Onderzoek
 
 ### Mecalux AMR 600 Rack
 **Opvallend:**  
