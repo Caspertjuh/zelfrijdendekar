@@ -29,38 +29,38 @@
 ## Vergelijkbaar product onderzoek
 
 ### 1. Mbot Ranger
-**Sterke punten:**  
-- Arduino aanstuurbaar  
-- Lichtgewicht en simpele constructie  
-- Mogelijkheid om in codetaal te programmeren  
+!!! succes "Sterke punten"  
+    - Arduino aanstuurbaar  
+    - Lichtgewicht en simpele constructie  
+    - Mogelijkheid om in codetaal te programmeren  
 
-**Zwakke punten:**  
-- Zwakke constructie, weinig draagvermogen  
-- Geen LIDAR-sensoren  
-- Alleen zicht vooruit  
+!!! warning "Zwakke punten"  
+    - Zwakke constructie, weinig draagvermogen  
+    - Geen LIDAR-sensoren  
+    - Alleen zicht vooruit  
 
 ### 2. Fabrieks AGV
-**Sterke punten:**  
-- Sterke constructie  
-- Aanstuurbaar via PC  
-- Zware belasting mogelijk door elektromotoren  
-- LIDAR-sensoren en magneetstrip-volgsysteem  
+!!! succes "Sterke punten"   
+    - Sterke constructie  
+    - Aanstuurbaar via PC  
+    - Zware belasting mogelijk door elektromotoren  
+    - LIDAR-sensoren en magneetstrip-volgsysteem  
 
-**Zwakke punten:**  
-- Geen mogelijkheid om op ruw terrein te rijden  
-- Geen detectie voor onvoorziene obstakels  
-- Duur ontwerp  
+!!! warning "Zwakke punten"
+    - Geen mogelijkheid om op ruw terrein te rijden  
+    - Geen detectie voor onvoorziene obstakels  
+    - Duur ontwerp  
 
 ### 3. Tesla Selfdriving
-**Sterke punten:**  
-- AI Vision technologie  
-- Past zich automatisch aan de omgeving aan  
-- Uitgebreid camerasysteem met objectherkenning  
+!!! succes "Sterke punten"
+    - AI Vision technologie  
+    - Past zich automatisch aan de omgeving aan  
+    - Uitgebreid camerasysteem met objectherkenning  
 
-**Zwakke punten:**  
-- Zeer hoge kosten  
-- Complex systeem  
-- Vereist dure hardware en componenten  
+!!! warning "Zwakke punten"  
+    - Zeer hoge kosten  
+    - Complex systeem  
+    - Vereist dure hardware en componenten  
 
 ---
 
