@@ -4,10 +4,10 @@
 
 | Naam                                      | Functie                         |
 |-------------------------------------------|--------------------------------|
-| [**Casper Oudman**](Casper)            | Werktuigbouw Beheer             |
-| [**Jayden Strikkers**](Jayden)         | Mechatronica Besturing         |
-| [**Jeffrey Schnuck**](Jeffrey)         | Elektro Specialist             |
-| [**Tjitte Timmerman**](Tjitte)         | Mechatronica Teamleider        |
+| [**Casper Oudman**](docs\Casper\Casper.md)            | Werktuigbouw Beheer             |
+| [**Jayden Strikkers**](docs\Jayden\Jayden.md)         | Mechatronica Besturing         |
+| [**Jeffrey Schnuck**](docs\Jeffrey\Jeffrey.md)         | Elektro Specialist             |
+| [**Tjitte Timmerman**](docs\Tjitte\Tjitte.md)         | Mechatronica Teamleider        |
 
 ## Projectinformatie
 
