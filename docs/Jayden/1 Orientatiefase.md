@@ -42,20 +42,16 @@ Wij hebben een aantal vragen opgesteld zodat wij meer informatie kunnen vergaren
 
 ### Swot analyse
 
-```yaml "Strenghts"
-
+```yaml title="Strenghts"
     Wij denken dat onze sterktes liggen bij dat we elkaar goed aan kunnen vullen, goed kunnen communiceren en een goede structuur hebben waar we onder werken.
 ```
-```yaml "Zwaktes"
-
+```yaml title="Zwaktes"
     Wij denken dat onze zwaktes liggen bij dat we misschien nog niet genoeg kennis beschikken om het project naar gewild af te maken.
 ```
-```yaml "Kansen"
-
+```yaml title="Kansen"
     We denken dat onze kansen liggen bij wat we bij eerdere projecten hebben geleerd en de ervaringen die we tijdens onze stages hebben opgedaan. Verder liggen onze kansen dat we het niet erg vinden om buiten onze schooltijden ook aan het project te werken zodat we eventueel al voor kunnen gaan lopen of juist tijd in kunnen halen.
 ```
-```yaml "Bedreigingen"
-
+```yaml title="Bedreigingen"
     Wij zijn bang dat we voor het project in tijdnood komen te zitten door al geplande afwezigheid (waar we ook al wel omheen plannen) en door ziekte en andere onvoorziene omstandigheden. Verder zijn we nog bang dat de lestijden niet overeenkomen met de tijd van het project, daarmee bedoel ik dat we bang zijn voor dat het project voor gaat lopen op de daadwerkelijke lessen die we hebben.
 ```
 ### Pakket van Eisen
@@ -63,25 +59,25 @@ Wij hebben een aantal vragen opgesteld zodat wij meer informatie kunnen vergaren
 Voor dit project zijn verschillende eisen opgesteld. Deze zijn onderverdeeld in algemene eisen, eisen voor werktuigbouwkundigen en eisen voor de automatisering.
 
 #### Algemene eisen
-•	Vanwege duurzaamheid moet 40% van het voertuig herbruikbaar zijn.
-•	Het voertuig mag niet voorzien worden van in bruikleen (aan)geleverde onderdelen, zoals een brandstofmotor.
-•	Het voertuig dient representatief te zijn voor andere leerlingen van de school en deelnemende bedrijven.
-•	De maximumsnelheid van het voertuig is 10 km/h.
-•	Het voertuig moet een bocht kunnen maken met een minimale straal van 3,5 meter binnen het parcours.
-•	Het voertuig moet een traject kunnen volgen langs objecten (zoals muren en planken) met een minimale hoogte van 200 mm. Dit heeft gevolgen voor de plaatsing van de sensoren.
-•	Het voertuig moet een vooraf uitgezet parcours kunnen volgen.
+-	Vanwege duurzaamheid moet 40% van het voertuig herbruikbaar zijn.
+-	Het voertuig mag niet voorzien worden van in bruikleen (aan)geleverde onderdelen, zoals een brandstofmotor.
+-	Het voertuig dient representatief te zijn voor andere leerlingen van de school en deelnemende bedrijven.
+-	De maximumsnelheid van het voertuig is 10 km/h.
+-	Het voertuig moet een bocht kunnen maken met een minimale straal van 3,5 meter binnen het parcours.
+-	Het voertuig moet een traject kunnen volgen langs objecten (zoals muren en planken) met een minimale hoogte van 200 mm. Dit heeft gevolgen voor de plaatsing van de sensoren.
+-	Het voertuig moet een vooraf uitgezet parcours kunnen volgen.
 
 
 #### Eisen voor werktuigbouwkundigen
-•	Alle onderdelen van het frame moeten zelf geproduceerd worden en mogen niet ingekocht worden.
-•	Het voertuig mag maximaal vier wielen hebben.
-•	De wielen mogen niet uitsteken aan de zijkanten.
-•	De maximale lengte van het voertuig is 1000 mm.
-•	De maximale breedte van het voertuig is 800 mm.
-•	De maximale hoogte van het voertuig is 500 mm.
-•	Het frame moet vervaardigd worden uit staal.
-•	Het voertuig moet voorzien zijn van een deugdelijk remsysteem.
-•	De accu moet veilig ingebouwd en stevig bevestigd worden. Deze accu dient voor de motor en de regeling.
+-	Alle onderdelen van het frame moeten zelf geproduceerd worden en mogen niet ingekocht worden.
+-	Het voertuig mag maximaal vier wielen hebben.
+-	De wielen mogen niet uitsteken aan de zijkanten.
+-	De maximale lengte van het voertuig is 1000 mm.
+-	De maximale breedte van het voertuig is 800 mm.
+-	De maximale hoogte van het voertuig is 500 mm.
+-	Het frame moet vervaardigd worden uit staal.
+-	Het voertuig moet voorzien zijn van een deugdelijk remsysteem.
+-	De accu moet veilig ingebouwd en stevig bevestigd worden. Deze accu dient voor de motor en de regeling.
 
 #### De constructie moet:
 A. Duurzaam, licht en voldoende sterk zijn. Dit dient te worden aangetoond met berekeningen.
@@ -89,7 +85,7 @@ B. Worden uitgevoerd volgens de gemaakte (werk)tekeningen.
 C. Voldoen aan laswerk van voldoende kwaliteit.
 
 #### Eisen voor de automatisering
-•	De zelfrijdende kar moet veilig functioneren.
-•	De besturing moet bestaan uit een PLC en een HMI.
-•	Er moeten sensoren aanwezig zijn.
-•	De kar moet voorzien zijn van puls drukkers, drukknoppen en lampen.
+-	De zelfrijdende kar moet veilig functioneren.
+-	De besturing moet bestaan uit een PLC en een HMI.
+-	Er moeten sensoren aanwezig zijn.
+-	De kar moet voorzien zijn van puls drukkers, drukknoppen en lampen.
