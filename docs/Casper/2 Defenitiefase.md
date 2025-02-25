@@ -26,7 +26,7 @@
 
 ---
 
-# Vergelijkbaar product onderzoek
+## Vergelijkbaar product onderzoek
 
 ### 1. Mbot Ranger
 **Sterke punten:**  
