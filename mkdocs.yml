@@ -22,3 +22,5 @@ markdown_extensions:
   - tables
   - attr_list
   - md_in_html
+  - attr_list
+  - pymdownx.emoji
