@@ -51,12 +51,12 @@ Dit is een autonome grasmaaier die gedeeltelijk zelfstandig werkt.
 - Sommige modellen gebruiken sensoren om gras te detecteren zonder draden.  
 
 !!! succes "Sterke punten"  
-- Kan zelfstandig obstakels vermijden en van richting veranderen.  
-- Automatische navigatie op basis van signalen en sensoren.  
+    - Kan zelfstandig obstakels vermijden en van richting veranderen.  
+    - Automatische navigatie op basis van signalen en sensoren.  
 
 !!! warning "Zwakke punten"
-- Vereist veel voorbereiding, zoals het spannen van een begrenzingsdraad.  
-- Detectietechnieken voor gras zijn nog in ontwikkeling, waardoor fouten kunnen optreden.  
+    - Vereist veel voorbereiding, zoals het spannen van een begrenzingsdraad.  
+    - Detectietechnieken voor gras zijn nog in ontwikkeling, waardoor fouten kunnen optreden.  
 
 ### AI in de Gezondheidszorg  
 Zorginstellingen maken ook gebruik van autonome systemen.  
@@ -66,12 +66,12 @@ Zorginstellingen maken ook gebruik van autonome systemen.
 - Sensortechnologie wordt gebruikt om patiënten op afstand te monitoren.  
 
 !!! succes "Sterke punten" 
-- AI kan symptomen vroegtijdig detecteren en artsen ondersteunen.  
-- Automatische gegevensverwerking voorkomt menselijke fouten.  
+    - AI kan symptomen vroegtijdig detecteren en artsen ondersteunen.  
+    - Automatische gegevensverwerking voorkomt menselijke fouten.  
 
 !!! warning "Zwakke punten" 
-- AI vertrouwt op eerdere data, waardoor er risico’s zijn bij verkeerde interpretaties.  
-- Kan verkeerde diagnoses geven als de dataset niet compleet of accuraat is.  
+    - AI vertrouwt op eerdere data, waardoor er risico’s zijn bij verkeerde interpretaties.  
+    - Kan verkeerde diagnoses geven als de dataset niet compleet of accuraat is.  
 
 ---
 
