@@ -34,7 +34,8 @@ Getekend door Casper Oudman
 - **ISO 14001** – Milieumanagementsysteem.
 - **Circulair ontwerp** – Gebruik van herbruikbare en recyclebare materialen.
 
-
+## Voorlopige bestellijst & Kostenberekening
+![Bestellijst](docs/Casper/Assets/Bestellijstvoorlopig.jpg){ align=left }
 
 !!! warning "Duurzaamheid in productontwikkeling"
     Let bij de productie en het einde van de levensduur op herbruikbare materialen en minimaliseer afval.

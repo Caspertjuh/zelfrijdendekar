@@ -15,6 +15,8 @@ Getekend door Jayden Strikkers
 ## Morfologische kaart
 ![Kaart](docs/Jayden/Assets/Morfologischekaart.png){ align=left }
 
+##
+
 ## Wet & Regelgeving
 !!! info "Waarom is wet- en regelgeving belangrijk?"
     Wet- en regelgeving waarborgt de veiligheid, kwaliteit en duurzaamheid van het product.
