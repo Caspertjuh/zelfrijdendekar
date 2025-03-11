@@ -14,7 +14,7 @@
 Getekend door Casper Oudman
 
 ## Morfologische kaart
-![Kaart](docs/Casper/Assets/Morfologischekaart.png){ align=left }
+![Kaart](docs/Casper/Assets/morfologischekaart.jpg){ align=left }
 
 ## Wet- en regelgeving
 
