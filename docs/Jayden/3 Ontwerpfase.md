@@ -28,15 +28,16 @@ Getekend door Jayden Strikkers
 ![Bestellijst](docs/Jayden/Assets/Bestellijstvoorlopig.jpg){ align=left }
 
 ## Keuze uit Ideeen
-Wij hebben als groepje gekozen om met de volgende onderdelen een tank te gaan maken
-    - Aandrijving -> Rups
-    - Motoren -> DC Brush motoren
-    - Frame -> Plaatwerk
-    - Navigatie systeem -> Afstandssensoren
-    - Voeding -> Accu
-    - Materiaal v/d behuizing -> Alluminium
-    - Bediening -> Afstandsbesturing & Autonoom
-    - Besturingssysteem -> PLC
+Wij hebben als groepje gekozen om met de volgende onderdelen een tank te gaan maken.
+
+- Aandrijving -> Rups
+- Motoren -> DC Brush motoren
+- Frame -> Plaatwerk
+- Navigatie systeem -> Afstandssensoren
+- Voeding -> Accu
+- Materiaal v/d behuizing -> Alluminium
+- Bediening -> Afstandsbesturing & Autonoom
+- Besturingssysteem -> PLC
 
 !!! info "Beredenering"
     Deze keuzes hebben wij gemaakt omdat wij graag een tank willen maken, deze tank hebben wij bedacht dat hij voldoet aan alle specifiecaties van de opdrachtgever, hij past binnen de afmetingen en heeft een draaicirkel van 0m.

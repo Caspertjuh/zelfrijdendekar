@@ -41,7 +41,8 @@ Getekend door Casper Oudman
 ![Bestellijst](docs/Casper/Assets/Bestellijstvoorlopig.jpg){ align=left }
 
 ## Keuze uit Ideeen
-Wij hebben als groepje gekozen om met de volgende onderdelen een tank te gaan maken
+Wij hebben als groepje gekozen om met de volgende onderdelen een tank te gaan maken.
+
 - Aandrijving -> Rups
 - Motoren -> DC Brush motoren
 - Frame -> Plaatwerk
