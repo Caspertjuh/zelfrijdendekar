@@ -10,6 +10,7 @@
 ![Mindmap](docs/Jayden/Assets/Mindmap.png){ align=left }
 
 ## Ideeschetsen
+![Ideeschets](docs/Jayden/Assets/Idee%20schets%20jayden.jpg)
 Getekend door Jayden Strikkers
 
 ## Morfologische kaart

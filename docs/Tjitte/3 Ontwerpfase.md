@@ -14,7 +14,7 @@
 Getekend door Tjitte Timmerman
 
 ## Morfologische kaart
-![Kaart](docs/Tjitte/Assets/Morfologischekaart.png){ align=left }
+![Kaart](docs/Tjitte/Assets/Morfologische%20kaart%20Tjitte.png){ align=left }
 
 ## Wet & Regelgeving
 !!! info "Waarom is wet- en regelgeving belangrijk?"
