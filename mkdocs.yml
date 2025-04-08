@@ -36,6 +36,10 @@ markdown_extensions:
   - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.pathconverter:
+      base_path: 'https://github.com/Caspertjuh/zelfrijdendekar/blob/main/docs/assets/Tekenpakket.pdf' # default: ''
+      relative_path: 'docs\assets\Tekenpakket.pdf' # default ''
+      absolute: false # default: false    
 
 # Extra CSS en JavaScript
 extra_css:
