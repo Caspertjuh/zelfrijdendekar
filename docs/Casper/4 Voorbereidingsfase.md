@@ -1,9 +1,5 @@
 # Voorbereidingsfase
 
-## Example: Embedding a PDF file
+## Werktuigbouw tekenpakket
 
-[Bekijk het tekenpakket (PDF)](assets/Tekenpakket.pdf)
-
-<object data="{{ pdf_file }}" type="docs\assets\Tekenpakket.pdf">
-    <embed src="{{ pdf_file }}" type="docs\assets\Tekenpakket.pdf" />
-</object>
+[Bekijk het tekenpakket (PDF)](https://github.com/Caspertjuh/zelfrijdendekar/blob/59ecb487f352efbecf10118d8e09c61e519f95c6/docs/assets/Tekenpakket.pdf)
