@@ -1,6 +1,6 @@
 # Casper Oudman  
 
-<img src="Assets/Casper.jpg" alt="Casper Oudman" width="250">
+![Casper Oudman](Assets/Casper.jpg){ width="250" }
 
 
 !!! quote "Contactgegevens"  

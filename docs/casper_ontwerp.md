@@ -4,17 +4,17 @@
     In deze fase wordt het ontwerp van het project ontwikkeld. Het projectteam werkt aan het creëren van technische oplossingen, prototypes, schematische tekeningen of simulaties, afhankelijk van de aard van het project. Er wordt rekening gehouden met technische specificaties, regelgeving en andere vereisten.
 
 ## Functioneel ontwerp
-![Functioneel Ontwerp](docs\Casper\Assets\Functioneelontwerp.png)(https://github.com/Caspertjuh/zelfrijdendekar/blob/main/docs/Casper/Assets/Functioneelontwerp.png){ align=left }
+![Functioneel Ontwerp](assets/casper_functioneelontwerp.png){ align=left }
 
 ## Mindmap
-![Mindmap](docs\Casper\Assets\Mindmap.png){ align=left }
+![Mindmap](assets/casper_mindmap.png){ align=left }
 
 ## Ideeschetsen
-![Ideeshets](docs\Casper\Assets\Ideeschets.jpg){ align=left }
+![Ideeshets](assets/casper_ideeschets.jpg){ align=left }
 Getekend door Casper Oudman
 
 ## Morfologische kaart
-![Kaart](docs\Casper\Assets\morfologischekaart.jpg){ align=left }
+![Kaart](assets/casper_morfologischekaart.jpg){ align=left }
 
 ## Wet- en regelgeving
 
@@ -38,7 +38,7 @@ Getekend door Casper Oudman
     Let bij de productie en het einde van de levensduur op herbruikbare materialen en minimaliseer afval.
 
 ## Voorlopige bestellijst & Kostenberekening
-![Bestellijst](docs\Casper\Assets\Bestellijstvoorlopig.jpg){ align=left }
+![Bestellijst](assets/casper_bestellijstvoorlopig.jpg){ align=left }
 
 ## Keuze uit Ideeen
 Wij hebben als groepje gekozen om met de volgende onderdelen een tank te gaan maken.
