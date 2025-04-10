@@ -50,3 +50,20 @@
     - 📅 **Datum**: 25 Februari 2025  
     - 🚧 **Status**: Ontwerpfase  
     - 📝 **Opmerkingen**: Bezig met het maken van het ontwerp, aanvullen van de website
+
+---
+
+## Veelgestelde Vragen
+
+??? question "Wat is de deadline voor het project?"
+    De deadline voor het project is **5 juli**.
+
+??? question "Welke tools worden gebruikt?"
+    We gebruiken tools zoals **Microsoft Onedrive**, **Whatsapp**, **Github**, **Inventor**, **Eplan**, en **Tiaportal**.
+
+---
+
+## Belangrijke Links
+
+- [Project Repository](https://github.com/caspertjuh/zelfrijdendekar)
+- [Documentatie](https://caspertjuh.github.io/zelfrijdendekar/)
