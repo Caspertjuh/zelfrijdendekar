@@ -11,8 +11,8 @@ theme:
     text: Merriweather Sans
     code: Red Hat Mono
   palette:
-    primary: teal  #/* Standaardkleur, wordt overschreven door CSS */
-    accent: lime   #/* Standaardkleur, wordt overschreven door CSS */
+    primary: teal  # Standaardkleur, wordt overschreven door CSS
+    accent: lime   # Standaardkleur, wordt overschreven door CSS
   features:
     - navigation.instant
     - navigation.instant.prefetch
@@ -21,8 +21,47 @@ theme:
     - content.code.copy
     - content.code.select
     - content.tooltips
-    - content.tabs
     - header.autohide
+
+# Navigatie
+nav:
+  - Hoofdpagina: index.md
+  - Casper:
+      - Startpagina: casper_start.md
+      - Orientatiefase: casper_orientatie.md
+      - Definitiefase: casper_definitie.md
+      - Ontwerpfase: casper_ontwerp.md
+      - Voorbereidingsfase: casper_voorbereiding.md
+      - Realisatiefase: casper_realisatie.md
+      - Opleveringsfase: casper_oplevering.md
+      - Nazorgsfase: casper_nazorg.md
+  - Jayden:
+      - Startpagina: jayden_start.md
+      - Orientatiefase: jayden_orientatie.md
+      - Definitiefase: jayden_definitie.md
+      - Ontwerpfase: jayden_ontwerp.md
+      - Voorbereidingsfase: jayden_voorbereiding.md
+      - Realisatiefase: jayden_realisatie.md
+      - Opleveringsfase: jayden_oplevering.md
+      - Nazorgsfase: jayden_nazorg.md
+  - Jeffrey:
+      - Startpagina: jeffrey_start.md
+      - Orientatiefase: jeffrey_orientatie.md
+      - Definitiefase: jeffrey_definitie.md
+      - Ontwerpfase: jeffrey_ontwerp.md
+      - Voorbereidingsfase: jeffrey_voorbereiding.md
+      - Realisatiefase: jeffrey_realisatie.md
+      - Opleveringsfase: jeffrey_oplevering.md
+      - Nazorgsfase: jeffrey_nazorg.md
+  - Tjitte:
+      - Startpagina: tjitte_start.md
+      - Orientatiefase: tjitte_orientatie.md
+      - Definitiefase: tjitte_definitie.md
+      - Ontwerpfase: tjitte_ontwerp.md
+      - Voorbereidingsfase: tjitte_voorbereiding.md
+      - Realisatiefase: tjitte_realisatie.md
+      - Opleveringsfase: tjitte_oplevering.md
+      - Nazorgsfase: tjitte_nazorg.md
 
 # Markdown-extensies
 markdown_extensions:
@@ -33,16 +72,15 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.pathconverter:
-      base_path: 'https://github.com/Caspertjuh/zelfrijdendekar/blob/main/docs/assets/Tekenpakket.pdf' # default: ''
-      relative_path: 'docs\assets\Tekenpakket.pdf' # default ''
-      absolute: false # default: false    
+      base_path: 'https://github.com/Caspertjuh/zelfrijdendekar/blob/main/docs/assets/Tekenpakket.pdf'
+      relative_path: 'docs/assets/Tekenpakket.pdf'
+      absolute: false
 
 # Extra CSS en JavaScript
 extra_css:
   - styles.css
 
-copyright: Copyright &copy; 2025 - Casper & Koffie
+copyright: "Copyright © 2025 - Casper & Koffie"
