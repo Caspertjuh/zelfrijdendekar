@@ -1,0 +1,10 @@
+:root {
+    /* Primary color */
+    --md-primary-fg-color:        #030402; /* Donkergroen/zwart */
+    --md-primary-fg-color--light: #376029; /* Lichtere variant */
+    --md-primary-fg-color--dark:  #1A2E1A; /* Donkere variant */
+  
+    /* Accent color */
+    --md-accent-fg-color:         #57B779; /* Lichtgroen */
+    --md-accent-fg-color--transparent: rgba(87, 183, 121, 0.1); /* Transparante variant */
+}
